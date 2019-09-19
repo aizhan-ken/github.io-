@@ -1,4 +1,9 @@
-*
+/* This is my lab2 where I created my own website
+    Name: Aizhan Kenzhaliyeva
+    Course Code: MODE4201
+    Date: Sep 20th, 2019
+    Description: Most of the codes were taken from this video https://www.youtube.com/watch?v=a2UnYs9AA_M&t=327s
+*/
 {
     margin: 0;
     padding: 0;
@@ -37,5 +42,33 @@ header
 {
     border: 1px solid white;
 }
+
+.hero
+{
+    position: absolute;
+    width: 1200px;
+    margin-left: 35px;
+    margin-right: 0px;
+}
+
+h1
+{
+    color: white;
+    text-transform: uppercase;
+    font-size: 100 px;
+    text-align: center;
+    margin-top: 250px;
+}
+
+p
+{
+    color: white;
+    border: 1px solid white;
+    padding: 10px 30px;
+    font-size: 13px;
+    margin-bottom: 10px;
+    margin-left: 440px
+}
+
 
   
