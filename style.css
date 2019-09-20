@@ -43,11 +43,11 @@ header
     border: 1px solid white;
 }
 
-.hero
+.name
 {
     position: absolute;
-    width: 1200px;
-    margin-left: 35px;
+    width:500px;
+    margin-left: 350px;
     margin-right: 0px;
 }
 
@@ -55,20 +55,40 @@ h1
 {
     color: white;
     text-transform: uppercase;
-    font-size: 100 px;
+    font-size: 50px;
     text-align: center;
     margin-top: 250px;
+}
+
+.row
+{
+    max-width: 1200px;
+    margin: auto;
+}
+
+body
+{
+    font-family: monospace;
 }
 
 p
 {
     color: white;
-    border: 1px solid white;
-    padding: 10px 30px;
-    font-size: 13px;
-    margin-bottom: 10px;
-    margin-left: 440px
+    text-align:center;
 }
 
+.modecourse-nav li
+{
+   display: inline-block; 
+}
+
+.modecourse-nav li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5x 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px  
+}
 
   
